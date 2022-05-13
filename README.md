@@ -1,7 +1,8 @@
 # Food Ordering App 
 
-A new Flutter application.
+Food Ordering with Flutter, Firebase for google authentication, 
+cloud functions to initiate stripe payment intent and triggered functions  with webhooks
 
-##Demo
+## Demo
 
-[Open the demo](https://www.youtube.com/watch?v=ckEembcjWEg)
+[Open the demo video](https://www.youtube.com/watch?v=ckEembcjWEg)
